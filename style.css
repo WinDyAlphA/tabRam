@@ -8,4 +8,19 @@ li {
     cursor: pointer;
     margin-top: 10px;
     margin-bottom: 10px;
+    border: solid;
+    padding: 1px #2f2d2f;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    /*style none*/
+    list-style-type: none;
+    margin-right: 10%;
+
 }
+
+
+
+    /*ajouter un cadre autour des li*/
+
+    
